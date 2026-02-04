@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on AI projects like fake news detection, sentiment analysis, and real-time geospatial routing! Also building web apps with technologies like Flask, React, and MySQL!<br>🌱 I’m currently learning about AI, machine learning, and web development to create impactful solutions.
+# About Me:
+Passionate about Generative AI, software development, and building scalable, data-driven applications. I have hands-on experience in Python, Flask, SQL, PyTorch, TensorFlow, Docker, PostgreSQL and many more. I enjoy developing backend systems, AI pipelines, and web applications. My projects range from AI-driven 360° VR environments to database-backed web applications and interactive frontend platforms. I am eager to combine my strong programming foundation, AI expertise, and problem-solving skills to create innovative solutions and contribute to impactful software projects.
 
 
 ## 🌐 Socials:
